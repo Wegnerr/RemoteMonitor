@@ -6,7 +6,7 @@ monitor.py - monitor module
 
 Running example:
 
-./producent 0
-./consumer 1
-./consumer 2
+./producent.py 0
+./consumer.py 1
+./consumer.py 2
 
